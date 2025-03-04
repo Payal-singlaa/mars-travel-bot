@@ -17,6 +17,9 @@ This project is a **Mars Travel Chatbot** built using **Amazon Lex, Amazon Bedro
 4. **Amazon Lex**: Serves as the conversational AI interface.
 5. **AWS CloudFormation**: Deploys the web UI for the chatbot.
 
+   ![Screenshot 2025-03-03 153545](https://github.com/user-attachments/assets/4cdfe7be-5ecd-4f7a-be36-336c2806628d)
+
+
 ## 🔧 Tools & Technologies
 - **Amazon Lex** – Conversational AI chatbot
 - **Amazon Bedrock** – AI-powered knowledge base & retrieval system
