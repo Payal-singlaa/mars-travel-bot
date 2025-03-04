@@ -16,15 +16,13 @@ This project is a **Mars Travel Chatbot** built using **Amazon Lex, Amazon Bedro
 3. **Amazon Bedrock Knowledge Base**: Connects to S3 to retrieve and process relevant data.
 4. **Amazon Lex**: Serves as the conversational AI interface.
 5. **AWS CloudFormation**: Deploys the web UI for the chatbot.
-6. **Custom Web UI**: An intuitive frontend for users to interact with the chatbot.
 
 ## 🔧 Tools & Technologies
 - **Amazon Lex** – Conversational AI chatbot
 - **Amazon Bedrock** – AI-powered knowledge base & retrieval system
 - **Amazon S3** – Document storage
 - **Amazon Titan Embeddings & Anthropic Claude v2** – AI models for language processing
-- **AWS CloudFormation** – Infrastructure as Code (IaC) for deploying the web UI
-- **Web UI** – A custom interface for chatbot interaction
+- **AWS CloudFormation** – For deploying the web UI
 
 ## 📌 Setup Instructions
 ### Prerequisites
@@ -45,6 +43,10 @@ This project is a **Mars Travel Chatbot** built using **Amazon Lex, Amazon Bedro
    - Configure intents, slots, and responses.
 5. **Deploy Web UI using AWS CloudFormation**
    - Use a CloudFormation template to set up the chatbot’s frontend.
+### 🎥 Demo
+Check out the live demo of the Mars Travel Chatbot UI here: https://drive.google.com/file/d/144AYSJKJRbKUYm_AQmGguDcYnZuN6Ryt/view?usp=drive_link
+Check out the live demo of the Mars Travel Chatbot here: https://drive.google.com/file/d/14uh-JSbElqGVdq-3vNFLRVRZ_cGxRA5n/view?usp=drive_link
+Try the chatbot UI: https://d3uqb10a9dxfqm.cloudfront.net/index.html
 
 ## 📈 Future Enhancements
 - **Multi-language support** for a global user base.
