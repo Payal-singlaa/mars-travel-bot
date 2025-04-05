@@ -48,8 +48,8 @@ This project is a **Mars Travel Chatbot** built using **Amazon Lex, Amazon Bedro
    - Use a CloudFormation template to set up the chatbot’s frontend.
    - 
 ### 📀 Demo
-Check out the live demo of the Mars Travel Chatbot UI: https://drive.google.com/file/d/1wEl6lHmopjfqNIx6_OuJmuTxjSzOquos/view?usp=drive_link
-Check out the live demo of the Mars Travel Chatbot: https://drive.google.com/file/d/14uh-JSbElqGVdq-3vNFLRVRZ_cGxRA5n/view?usp=drive_link
+Check out the live demo of the Mars Travel Chatbot UI: https://drive.google.com/file/d/1weSlKNX0eF9sRttsg7RZEQc1yuKmIobE/view?usp=sharing
+Check out the live demo of the Mars Travel Chatbot: https://drive.google.com/file/d/1wEl6lHmopjfqNIx6_OuJmuTxjSzOquos/view?usp=sharing
 Try the chatbot UI: https://d3uqb10a9dxfqm.cloudfront.net/index.html
 
 ## 📈 Future Enhancements
